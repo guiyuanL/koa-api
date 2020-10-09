@@ -14,4 +14,3 @@ http://localhost:5000/api/user/login     POST public
 http://localhost:5000/api/user/current   GET  private
 
 http://localhost:5000/api/user/test      GET  public
-
